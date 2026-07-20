@@ -11,7 +11,7 @@ MyZubster is an open-source, privacy-first platform that connects freelancers an
 
 | Method | URL |
 |--------|-----|
-| **Clearnet (IP)** | `http://188.213.161.186:4000` |
+| **Clearnet (IP)** | `**************|
 | **Tor (Onion)** | `http://olqcnbdlt35k2stmmwvzhvuetu2fc4us2jnn5wg6y6wlcddihfmdomid.onion` |
 | **Domain** | `https://myzubster.com` *(coming soon)* |
 
