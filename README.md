@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # 🚀 MyZubster
 
 **Decentralized Freelance Marketplace · Powered by Monero (XMR)**
