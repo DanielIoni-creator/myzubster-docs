@@ -96,3 +96,7 @@ nano .env
 
 # Start the server
 node server.js
+
+## 🤝 Contributi
+
+Contributi sono benvenuti! Dai un'occhiata alle [issue aperte]([Issues](https://github.com/DanielIoni-creator/myzubster-docs/issues)) e alla [roadmap]([Roadmap](https://github.com/users/DanielIoni-creator/projects/1)).
