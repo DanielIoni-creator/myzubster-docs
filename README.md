@@ -1,5 +1,6 @@
 > **Part of the [MyZubster ecosystem](https://github.com/MyZubster-Ecosystem/myzubster)**
 [![License](https://img.shields.io/github/license/DanielIoni-creator/myzubster-docs](LICENSE)) 
+[![CI](https://github.com/DanielIoni-creator/myzubster-docs/actions/workflows/ci.yml/badge.svg)](https://github.com/DanielIoni-creator/myzubster-docs/actions/workflows/ci.yml)
 [![GitHub stars](https://img.shields.io/github/stars/DanielIoni-creator/myzubster-docs](https://github.com/DanielIoni-creator/myzubster-docs/stargazers)) 
 [![GitHub issues](https://img.shields.io/github/issues/DanielIoni-creator/myzubster-docs](https://github.com/DanielIoni-creator/myzubster-docs/issues)) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/DanielIoni-creator/myzubster-docs](https://github.com/DanielIoni-creator/myzubster-docs/commits/main)) 
