@@ -1,9 +1,9 @@
 > **Part of the [MyZubster ecosystem](https://github.com/MyZubster-Ecosystem/myzubster)**
-[![License](https://img.shields.io/github/license/DanielIoni-creator/myzubster-docs](LICENSE)) 
-[![CI](https://github.com/DanielIoni-creator/myzubster-docs/actions/workflows/ci.yml/badge.svg)](https://github.com/DanielIoni-creator/myzubster-docs/actions/workflows/ci.yml)
-[![GitHub stars](https://img.shields.io/github/stars/DanielIoni-creator/myzubster-docs](https://github.com/DanielIoni-creator/myzubster-docs/stargazers)) 
-[![GitHub issues](https://img.shields.io/github/issues/DanielIoni-creator/myzubster-docs](https://github.com/DanielIoni-creator/myzubster-docs/issues)) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/DanielIoni-creator/myzubster-docs](https://github.com/DanielIoni-creator/myzubster-docs/commits/main)) 
+[![License](https://img.shields.io/github/license/MyZubster-Ecosystem/myzubster-docs](LICENSE)) 
+[![CI](https://github.com/MyZubster-Ecosystem/myzubster-docs/actions/workflows/ci.yml/badge.svg)](https://github.com/MyZubster-Ecosystem/myzubster-docs/actions/workflows/ci.yml)
+[![GitHub stars](https://img.shields.io/github/stars/MyZubster-Ecosystem/myzubster-docs](https://github.com/MyZubster-Ecosystem/myzubster-docs/stargazers)) 
+[![GitHub issues](https://img.shields.io/github/issues/MyZubster-Ecosystem/myzubster-docs](https://github.com/MyZubster-Ecosystem/myzubster-docs/issues)) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/MyZubster-Ecosystem/myzubster-docs](https://github.com/MyZubster-Ecosystem/myzubster-docs/commits/main)) 
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org/)
 
 <<<<<<< HEAD
@@ -48,7 +48,7 @@ MyZubster is an open-source, privacy-first platform that connects freelancers an
 
 ### NFT Marketplace
 
-![NFT Marketplace](https://raw.githubusercontent.com/DanielIoni-creator/myzubster-assets/main/screenshot-nft-marketplace.png)
+![NFT Marketplace](https://raw.githubusercontent.com/MyZubster-Ecosystem/myzubster-assets/main/screenshot-nft-marketplace.png)
 
 ---
 
@@ -85,7 +85,7 @@ MyZubster is built as a modular ecosystem:
 
 ```bash
 # Clone the repository
-git clone https://github.com/DanielIoni-creator/MyZubster-Marketplace.git
+git clone https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace.git
 cd MyZubster-Marketplace
 
 # Install dependencies
@@ -100,4 +100,4 @@ node server.js
 
 ## 🤝 Contributi
 
-Contributi sono benvenuti! Dai un'occhiata alle [issue aperte]([Issues](https://github.com/DanielIoni-creator/myzubster-docs/issues)) e alla [roadmap]([Roadmap](https://github.com/users/DanielIoni-creator/projects/1)).
+Contributi sono benvenuti! Dai un'occhiata alle [issue aperte]([Issues](https://github.com/MyZubster-Ecosystem/myzubster-docs/issues)) e alla [roadmap]([Roadmap](https://github.com/users/MyZubster-Ecosystem/projects/1)).
