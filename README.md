@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 
+=======
+> **Part of the [MyZubster ecosystem](https://github.com/MyZubster-Ecosystem/myzubster)**
+
+cat > README.md << 'EOF'
+>>>>>>> 472e9fa (docs: add link to ecosystem hub)
 # 🚀 MyZubster
 
 **Decentralized Freelance Marketplace · Powered by Monero (XMR)**
