@@ -114,3 +114,8 @@ All MyZubster components are released under the MIT License – free for everyon
 MyZubster Ecosystem: https://github.com/MyZubster-Ecosystem
 
 Maintained by Daniel Ioni and the MyZubster community.
+
+
+## 💬 Community
+
+- **Telegram**: [@MyZubster_bot](https://t.me/MyZubster_bot) – for updates, support, and discussions.
