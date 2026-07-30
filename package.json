@@ -1,0 +1,8 @@
+{
+  "name": "myzubster-docs",
+  "version": "1.0.0",
+  "description": "Documentation for MyZubster ecosystem",
+  "scripts": {
+    "test": "echo \"No tests\""
+  }
+}
