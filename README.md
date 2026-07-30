@@ -264,3 +264,97 @@ MyZubster Ecosystem: https://github.com/MyZubster-Ecosystem
 
 Maintained by Daniel Ioni and the MyZubster community.
 
+
+---
+
+## 🌐 Website
+
+MyZubster has an official website that serves as the main entry point for the ecosystem:
+
+🔗 **Live site**: [https://www.myzubster.com](https://www.myzubster.com)
+
+### Pages
+
+| Page | URL | Description |
+|------|-----|-------------|
+| **Home** | `/` | Introduction to the project, its pillars, and recent activity |
+| **About** | `/about` | Mission, vision, and core values |
+| **Contribute** | `/contribute` | How to help (code, data, outreach, donations) |
+| **Map** | `/map` | Interactive global map (coming soon) |
+| **NFT** | `/nft` | Digital certificates and badges for contributors |
+
+The site is built with **React + Vite**, hosted on **Vercel**, and fully open source.
+
+---
+
+## 🪙 NFTs (Non‑Fungible Tokens)
+
+MyZubster is exploring the use of NFTs as **digital certificates of contribution and participation**.
+
+### What they represent
+
+| NFT Type | Description |
+|----------|-------------|
+| **Plant Registration Certificate** | Awarded for every plant mapped on the global map |
+| **Seed Exchange Badge** | For participating in the seed‑sharing community |
+| **Validator Status** | For verifying submissions on the map |
+| **Community Badges** | Early Adopter, Seed Saver, Gardener, and more |
+
+### How it works
+
+- NFTs are minted on the **Tari blockchain** (private, low‑fee, Monero‑friendly).
+- Linked to your MyZubster profile and visible on the map and dashboard.
+- They build **reputation and trust** within the community.
+
+### Learn more
+
+- 🔗 [NFT page on the website](https://www.myzubster.com/nft)
+- 📖 [Tari NFT template repository](https://github.com/MyZubster-Ecosystem/tari-nft-template)
+
+
+---
+
+## 🌐 Website
+
+MyZubster has an official website that serves as the main entry point for the ecosystem:
+
+🔗 **Live site**: [https://www.myzubster.com](https://www.myzubster.com)
+
+### Pages
+
+| Page | URL | Description |
+|------|-----|-------------|
+| **Home** | `/` | Introduction to the project, its pillars, and recent activity |
+| **About** | `/about` | Mission, vision, and core values |
+| **Contribute** | `/contribute` | How to help (code, data, outreach, donations) |
+| **Map** | `/map` | Interactive global map (coming soon) |
+| **NFT** | `/nft` | Digital certificates and badges for contributors |
+
+The site is built with **React + Vite**, hosted on **Vercel**, and fully open source.
+
+---
+
+## 🪙 NFTs (Non‑Fungible Tokens)
+
+MyZubster is exploring the use of NFTs as **digital certificates of contribution and participation**.
+
+### What they represent
+
+| NFT Type | Description |
+|----------|-------------|
+| **Plant Registration Certificate** | Awarded for every plant mapped on the global map |
+| **Seed Exchange Badge** | For participating in the seed‑sharing community |
+| **Validator Status** | For verifying submissions on the map |
+| **Community Badges** | Early Adopter, Seed Saver, Gardener, and more |
+
+### How it works
+
+- NFTs are minted on the **Tari blockchain** (private, low‑fee, Monero‑friendly).
+- Linked to your MyZubster profile and visible on the map and dashboard.
+- They build **reputation and trust** within the community.
+
+### Learn more
+
+- 🔗 [NFT page on the website](https://www.myzubster.com/nft)
+- 📖 [Tari NFT template repository](https://github.com/MyZubster-Ecosystem/tari-nft-template)
+
