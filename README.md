@@ -1,88 +1,38 @@
-> **Part of the [MyZubster ecosystem](https://github.com/MyZubster-Ecosystem)**
+# 📚 MyZubster Documentation
 
-> **Part of the [MyZubster ecosystem](https://github.com/MyZubster-Ecosystem)**
-
-> **Part of the [MyZubster ecosystem](https://github.com/MyZubster-Ecosystem)**
-
-> **Part of the [MyZubster ecosystem](https://github.com/MyZubster-Ecosystem/myzubster)**
-[![License](https://img.shields.io/github/license/MyZubster-Ecosystem/myzubster-docs](LICENSE)) 
-[![CI](https://github.com/MyZubster-Ecosystem/myzubster-docs/actions/workflows/ci.yml/badge.svg)](https://github.com/MyZubster-Ecosystem/myzubster-docs/actions/workflows/ci.yml)
-[![GitHub stars](https://img.shields.io/github/stars/MyZubster-Ecosystem/myzubster-docs](https://github.com/MyZubster-Ecosystem/myzubster-docs/stargazers)) 
-[![GitHub issues](https://img.shields.io/github/issues/MyZubster-Ecosystem/myzubster-docs](https://github.com/MyZubster-Ecosystem/myzubster-docs/issues)) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/MyZubster-Ecosystem/myzubster-docs](https://github.com/MyZubster-Ecosystem/myzubster-docs/commits/main)) 
-[![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org/)
-
-<<<<<<< HEAD
-
-=======
-> **Part of the [MyZubster ecosystem](https://github.com/MyZubster-Ecosystem/myzubster)**
-
-cat > README.md << 'EOF'
->>>>>>> 472e9fa (docs: add link to ecosystem hub)
-# 🚀 MyZubster
-
-**Decentralized Freelance Marketplace · Powered by Monero (XMR)**
-
-MyZubster is an open-source, privacy-first platform that connects freelancers and clients directly. No middlemen, no censorship, no data harvesting.
+**Welcome to the official documentation hub for the MyZubster ecosystem.**
 
 ---
 
-## 🌐 Access MyZubster
+## 🌐 About This Repository
 
-| Method | URL |
-|--------|-----|
-| **Clearnet (IP)** | `**************|
-| **Tor (Onion)** | `http://olqcnbdlt35k2stmmwvzhvuetu2fc4us2jnn5wg6y6wlcddihfmdomid.onion` |
-| **Domain** | `https://myzubster.com` *(coming soon)* |
+This repository contains all the documentation for the MyZubster project.  
+It serves as the central knowledge base for developers, users, and contributors.
 
----
-
-## ✨ Features
-
-- ✅ **Decentralized & Open Source** – No single point of failure
-- ✅ **Monero (XMR) Payments** – Private, untraceable, borderless
-- ✅ **NFT Marketplace** – Tokenized skills on Tari
-- ✅ **AI Assistant** – Generate professional skill descriptions with Groq
-- ✅ **JWT Authentication** – Secure user management
-- ✅ **Escrow System** – Funds locked until service delivery
-- ✅ **Tor Integration** – Anonymous access via Onion service
-- ✅ **Privacy First** – No tracking, no data selling
+**Key contents:**
+- Project overview and architecture
+- Setup and installation guides
+- API references
+- Contribution guidelines
+- Economic and legal documentation
 
 ---
 
-## 🖼️ Screenshots
+## 🧭 Quick Navigation
 
-### NFT Marketplace
-
-![NFT Marketplace](https://raw.githubusercontent.com/MyZubster-Ecosystem/myzubster-assets/main/screenshot-nft-marketplace.png)
-
----
-
-## 🧩 Architecture
-
-MyZubster is built as a modular ecosystem:
-
-| Component | Description | Status |
-|-----------|-------------|--------|
-| **Gateway** | Monero payment engine | ✅ Live |
-| **Marketplace** | Backend API + UI | ✅ Live |
-| **Mobile App** | React Native | 🚧 In Development |
-
-### Tech Stack
-
-- **Backend**: Node.js + Express
-- **Database**: MongoDB (Gateway) + SQLite (Marketplace)
-- **Authentication**: JWT
-- **AI**: Groq API
-- **Deployment**: Aruba Cloud VPS (Ubuntu 24.04)
-- **Tor**: Onion Service for anonymous access
+| Section | Description |
+|---------|-------------|
+| [Getting Started](#-getting-started) | How to set up and run MyZubster |
+| [Architecture](#-architecture) | High‑level system design |
+| [API Reference](#-api-reference) | Endpoints and usage |
+| [Contributing](#-contributing) | How to help the project |
+| [License](#-license) | MIT License |
 
 ---
 
-## 🛠️ Quick Start
+## 🚀 Getting Started
 
 ### Prerequisites
-
 - Node.js v18+
 - npm v9+
 - Docker (optional)
@@ -90,7 +40,7 @@ MyZubster is built as a modular ecosystem:
 ### Clone and Install
 
 ```bash
-# Clone the repository
+# Clone the marketplace (or any other component)
 git clone https://github.com/MyZubster-Ecosystem/MyZubster-Marketplace.git
 cd MyZubster-Marketplace
 
@@ -103,19 +53,64 @@ nano .env
 
 # Start the server
 node server.js
+For detailed setup instructions, refer to the individual repository READMEs.
+🧱 Architecture
 
-## 🤝 Contributi
+MyZubster is built as a modular ecosystem:
+Component	Description	Status
+Gateway	Monero payment engine, webhooks, monitoring	✅ Live
+Marketplace	Backend API + UI for services and skills	✅ Live
+Mobile App	React Native client for Android	🚧 In Development
+Web App	React/Vite frontend	✅ Live
+Tech Stack
 
-Contributi sono benvenuti! Dai un'occhiata alle [issue aperte]([Issues](https://github.com/MyZubster-Ecosystem/myzubster-docs/issues)) e alla [roadmap]([Roadmap](https://github.com/users/MyZubster-Ecosystem/projects/1)).
+    Backend: Node.js + Express
 
-## 🌐 Ecosystem Hub
+    Databases: MongoDB (Gateway) + SQLite (Marketplace)
 
-**MyZubster Ecosystem**: https://github.com/MyZubster-Ecosystem
+    Authentication: JWT
 
-## 🌐 Ecosystem Hub
+    Payments: Monero (XMR)
 
-**MyZubster Ecosystem**: https://github.com/MyZubster-Ecosystem
+    AI: DeepSeek / Groq API
 
-## 🌐 Ecosystem Hub
+    Deployment: Aruba Cloud VPS (Ubuntu 24.04)
 
-**MyZubster Ecosystem**: https://github.com/MyZubster-Ecosystem
+    Privacy: Tor Onion Service
+
+📡 API Reference
+
+The main API endpoints are provided by the Gateway service:
+Endpoint	Method	Description
+/health	GET	Health check
+/api/payments	POST	Create a payment
+/api/payments/:id	GET	Check payment status
+/api/webhook	POST	Webhook for order events
+/api/users	GET	List users (admin)
+
+For full API documentation, see the Gateway repository.
+🤝 Contributing
+
+Contributions are welcome! Check out the open issues and the roadmap:
+
+    Issues: https://github.com/MyZubster-Ecosystem/MyZubsterGateway/issues
+
+    Roadmap: https://github.com/users/DanielIoni-creator/projects/1
+
+How to Contribute
+
+    Fork the repository you want to work on.
+
+    Create a new branch for your feature or fix.
+
+    Submit a pull request with a clear description of your changes.
+
+For more details, see the CONTRIBUTING.md file in each repository.
+📜 License
+
+All MyZubster components are released under the MIT License – free for everyone to use, modify, and distribute.
+🌐 Ecosystem Hub
+
+MyZubster Ecosystem: https://github.com/MyZubster-Ecosystem
+
+Maintained by Daniel Ioni and the MyZubster community.
