@@ -128,3 +128,8 @@ Maintained by Daniel Ioni and the MyZubster community.
 - **TikTok**: [@danielioni](https://tiktok.com/@danielioni) – behind the scenes and project updates
 - **Instagram**: [@danielioni](https://instagram.com/danielioni) – visuals and community stories
 - **dev.to**: [Daniel Ioni](https://dev.to/danielioni) – technical articles and project updates
+
+
+## 💬 Community
+
+- **Telegram Channel**: [@myzubster](https://t.me/myzubster) – follow for updates, news, and discussions about the MyZubster ecosystem.
