@@ -1,8 +1,8 @@
 # MyZubster Terms of Service
 
 **Version:** 1.0.0  
-**Effective Date:** 2026-07-31  
-**Last Updated:** 2026-07-31
+**Effective Date:** 2026-08-01  
+**Last Updated:** 2026-08-01
 
 ## 1. Acceptance
 
@@ -81,7 +81,7 @@ Contribution certificates minted as NFTs on the Tari blockchain represent verifi
 
 MyZubster processes personal data in accordance with the EU General Data Protection Regulation (Regulation (EU) 2016/679, "GDPR") and the Italian Personal Data Protection Code (D.Lgs. 196/2003, as amended).
 
-**Data Controller:** MyZubster, operating via servers located in Italy. For privacy inquiries, contact: privacy@myzubster.example.
+**Data Controller:** MyZubster, operating via servers located in Italy. For privacy inquiries, contact: privacy@myzubster.com.
 
 ### Data We Process
 
@@ -118,7 +118,7 @@ Under GDPR, you have the right to:
 - Data portability
 - Lodge a complaint with the Italian Data Protection Authority (Garante per la protezione dei dati personali)
 
-To exercise your rights, email privacy@myzubster.example.
+To exercise your rights, email privacy@myzubster.com.
 
 ### Data Security
 
@@ -155,7 +155,7 @@ You agree to indemnify and hold harmless MyZubster from any claims, damages, los
 
 ### Informal Resolution
 
-In the event of any dispute, you agree to first contact MyZubster's support team at support@myzubster.example to attempt an informal resolution.
+In the event of any dispute, you agree to first contact MyZubster's support team at support@myzubster.com to attempt an informal resolution.
 
 | Step | Action | Timeline |
 |------|--------|----------|
@@ -201,8 +201,8 @@ Your continued use of the Platform after any such changes constitutes acceptance
 # Termini di Servizio MyZubster
 
 **Versione:** 1.0.0  
-**Data di Entrata in Vigore:** 2026-07-31  
-**Ultimo Aggiornamento:** 2026-07-31
+**Data di Entrata in Vigore:** 2026-08-01  
+**Ultimo Aggiornamento:** 2026-08-01
 
 ## 1. Accettazione
 
@@ -281,7 +281,7 @@ I certificati di contributo coniati come NFT sulla blockchain Tari rappresentano
 
 MyZubster tratta i dati personali in conformità al Regolamento Generale sulla Protezione dei Dati dell'UE (Regolamento (UE) 2016/679, "GDPR") e al Codice italiano in materia di protezione dei dati personali (D.Lgs. 196/2003, come modificato).
 
-**Titolare del Trattamento:** MyZubster, operante tramite server situati in Italia. Per richieste sulla privacy, contattare: privacy@myzubster.example.
+**Titolare del Trattamento:** MyZubster, operante tramite server situati in Italia. Per richieste sulla privacy, contattare: privacy@myzubster.com.
 
 ### Dati Trattati
 
@@ -318,7 +318,7 @@ In base al GDPR, l'utente ha diritto di:
 - Portabilità dei dati
 - Proporre reclamo al Garante per la protezione dei dati personali
 
-Per esercitare i diritti, inviare email a privacy@myzubster.example.
+Per esercitare i diritti, inviare email a privacy@myzubster.com.
 
 ### Sicurezza
 
@@ -355,7 +355,7 @@ L'utente si impegna a manlevare e tenere indenne MyZubster da qualsiasi reclamo,
 
 ### Risoluzione Informale
 
-In caso di controversia, l'utente si impegna a contattare prima il team di supporto di MyZubster all'indirizzo support@myzubster.example per tentare una risoluzione informale.
+In caso di controversia, l'utente si impegna a contattare prima il team di supporto di MyZubster all'indirizzo support@myzubster.com per tentare una risoluzione informale.
 
 | Passo | Azione | Timeline |
 |-------|--------|----------|
