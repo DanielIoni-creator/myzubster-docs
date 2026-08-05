@@ -2,6 +2,10 @@
 
 Welcome to the MyZubster documentation repository! We appreciate your contributions to help improve our docs.
 
+## Table of Contents
+- [How to Contribute](#how-to-contribute)
+- [🤖 Automation in this project](#-automation-in-this-project)
+
 ## How to Contribute
 1. **Fork the repo** and create your branch from `main`.
 2. **Submit a Pull Request (PR)**: Ensure your PR describes the changes clearly.
@@ -14,7 +18,7 @@ Welcome to the MyZubster documentation repository! We appreciate your contributi
 
 ## 🤖 Automation in this project
 
-MyZubster uses automation to help manage the large volume of issues and PRs.
+MyZubster uses automation to help manage the large volume of issues and PRs. Full governance and operational details are defined in [AI_CONTRACT.md](./AI_CONTRACT.md) and [BOT_CONTRACT.md](./BOT_CONTRACT.md).
 
 ### What is automated?
 - Initial issue triage and labeling
